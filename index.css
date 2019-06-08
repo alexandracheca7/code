@@ -1,0 +1,103 @@
+
+.header {
+    background-color: pink;
+    color: black;
+    font-size: 35px;
+    width: 1085px;
+    height: 100px;
+    position: relative;
+    text-align: center;
+    margin-left: 60px;
+}
+
+.header h1 {
+    color: black;
+    font-size: 27px;
+    text-align: center;
+}
+
+.navigation {
+    background-color: pink;
+    border: 10px;
+    height: 60px;
+    text-align: center;
+    color: black;
+    width: 1085px;
+    margin-left: 60px;
+}
+
+.navigation h2 {
+    color: black;
+    font-size: 25px;
+}
+
+.aside {
+    float: right;
+    text-align: center;
+    padding: 15px;
+    font-size: 15px;
+    width: 500px;
+    background-color:pink;
+    color:black;
+    height: 220px;
+    border:20px solid white;
+    margin-right: 100px;
+}
+
+.aside h2 {
+    margin:-12px;
+}
+
+.section {
+    float: left;
+    text-align: center;
+    font-size: 15px;
+    width: 500px;
+    background-color: pink;
+    color: black;
+    height: 250px;
+    margin-left: 40px;
+    border: 19px solid white;
+}
+
+.section article {
+    font-size: 24px;
+    background-color: white;
+    margin-left: 95px;
+    margin-right: 85px;
+    width: 300;
+    height: 30px;
+    text-align: center;
+}
+
+.section p {
+    font-size: 24px;
+    background-color: white;
+    margin-left: 95px;
+    margin-right: 85px;
+    width: 300;
+    height: 30px;
+    text-align: center;
+}
+
+.article h1 {
+    float: left;
+    background-color: pink;
+    width: 500px;
+    height: 197px;
+    font-style: bold;
+    text-align: center;
+    margin-left: 60px;
+}
+
+.footer h2 {
+    position: absolute;
+    width: 1095px;
+    height: 100px;
+    bottom: 0px;
+    background-color: pink;
+    text-align: center;
+    margin-left: 60px;
+}
+
+
